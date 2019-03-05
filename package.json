@@ -1,13 +1,20 @@
 {
   "name": "messing-up-with-d3",
   "version": "1.0.0",
-  "description": "",
+  "description": "d3 with React",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack-dev-server --open --config=webpack.config.js --mode=development"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h-line/messing-up-with-d3.git"
+  },
+  "author": {
+    "name": "Lauri Hälinen",
+    "email": "lauri.halinen@iki.fi",
+    "url": "https://laurihalinen.fi"
+  },
   "license": "ISC",
   "devDependencies": {
     "@babel/core": "^7.1.6",
